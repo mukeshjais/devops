@@ -1,1 +1,2 @@
 "This is File  -- version 2 - Bug Fixed#1"
+Added new line
